@@ -24,7 +24,8 @@ def recommend(movie):
     return recommended_movie_names,recommended_movie_posters
 
 
-st.header('MovieMate')
+st.markdown("<h1 style='text-align: center;'>MovieMate</h1>", unsafe_allow_html=True)
+
 movies = pickle.load(open('movies_list.pkl','rb'))
 similarity = pickle.load(open('simi_matrix.pkl','rb'))
 
