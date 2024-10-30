@@ -1,1 +1,1 @@
-![image](https://github.com/kumarkse/MovieMate/assets/109473805/00c8d960-1b7c-432a-ac7b-fab6349605bf)
+![image](https://github.com/user-attachments/assets/83d851ea-3612-4301-898b-8125bc1d1b0b)
